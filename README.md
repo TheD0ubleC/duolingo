@@ -1,3 +1,5 @@
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjYzMDcyMDAwMDAsImlhdCI6MCwic3ViIjo5NjMyNzgyNjZ9.88L2oIXoSa7pDym1M4FotyvhAxyJHZuOLKRcKmsAu6E
+
 # duolingo
 
 [![Keep my Duolingo streak](https://github.com/rfoel/duolingo/actions/workflows/streak-keeper.yml/badge.svg?branch=main)](https://github.com/rfoel/duolingo/actions/workflows/streak-keeper.yml)
